@@ -142,3 +142,13 @@ Google Drive → Data Loader → Split → Embed → Pinecone → Gemini → Cha
 ![WORKFLOW 1](https://github.com/SaiSmaran29/SmartDocsAI-Powered-Document-Assistant/blob/main/workflow%201.png.png)
 ![WORKFLOW 2](https://github.com/SaiSmaran29/SmartDocsAI-Powered-Document-Assistant/blob/main/workflow1.png.png)
 ![output](https://github.com/SaiSmaran29/SmartDocsAI-Powered-Document-Assistant/blob/main/workflow.output.png)
+### 🎥 Project Demo
+[![Watch the Demo](./workflow1.png.png)](./Workflow%20(1).mp4)
+
+Click the thumbnail above or [download the video](./Workflow%20(1).mp4) to view the RAG Chatbot in action.
+
+---
+
+### 📄 Project Report
+You can read the complete project documentation here:  
+👉 [RAG CHATBOT PROJECT.pdf](./RAG%20CHATBOT%20PROJECT.pdf)
